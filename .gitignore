@@ -1,0 +1,10 @@
+lib
+node_modules
+.idea
+.DS_Store
+.env
+json-data
+yarn.lock
+.homebridge
+.hoobs
+.turbo
